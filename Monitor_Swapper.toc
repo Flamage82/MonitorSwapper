@@ -1,0 +1,12 @@
+## Interface: 120000
+
+## Title: Monitor Swapper
+
+## Notes: Quality of life addon.
+
+## Version: 1.0.0
+## Author: Flamage
+
+## OptionalDeps: LibDataBroker-1.1
+
+Monitor_Swapper.lua
