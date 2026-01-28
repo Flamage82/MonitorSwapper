@@ -9,4 +9,4 @@
 
 ## OptionalDeps: LibDataBroker-1.1
 
-Monitor_Swapper.lua
+MonitorSwapper.lua

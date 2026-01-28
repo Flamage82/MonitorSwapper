@@ -11,7 +11,7 @@ end
 
 local LDB = LibStub and LibStub("LibDataBroker-1.1", true)
 if LDB then
-    MonitorSwapper = LDB:NewDataObject("Monitor_Swapper", {
+    MonitorSwapper = LDB:NewDataObject("MonitorSwapper", {
         type = "launcher",
         label = "Monitor Swapper",
         icon = "Interface\\QuestFrame\\UI-QuestLog-BookIcon",
